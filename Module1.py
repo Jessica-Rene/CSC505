@@ -1,7 +1,7 @@
 """
 CSC 505 - Principles of Software Development
 Author: Jessica R. Reyes
-Due Date: 14 June 2026
+Due Date: 14 June 
 Description: This script reads a CSV file of student grades and calculates basic statistics.
 """
 
