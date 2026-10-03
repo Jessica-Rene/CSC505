@@ -1,7 +1,7 @@
 """
 CSC 505 - Principles of Software Development
 Author: Jessica R. Reyes
-Due Date: 28 June
+Due Date: 28 June 2026
 Description: Shopping List Prototype.
 """
 
